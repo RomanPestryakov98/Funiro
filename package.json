@@ -1,9 +1,8 @@
 {
-	"name": "fls-start",
+	"name": "funiro",
 	"version": "3.0.0",
-	"description": "Start template with Gulp and Webpack",
-	"author": "FLS",
-	"private": true,
+	"description": "",
+	"author": "",
 	"license": "",
 	"type": "module",
 	"scripts": {
