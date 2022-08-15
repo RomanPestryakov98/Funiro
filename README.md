@@ -10,7 +10,7 @@
 + Swiper
 
 ##### Обзор:  
-![screenshots](./src/img/Funiro Landing Page.jpg)
+![screenshots](./src/img/FuniroLandingPage.jpg)
 
 #### Установка и запуск 
 
