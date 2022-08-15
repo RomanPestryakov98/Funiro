@@ -5,5 +5,18 @@
 + SCSS
 + JavaScript (стандарт ES6)
 + GULP
+
 #### Библиотеки 
 + Swiper
+
+##### Обзор:  
+![screenshots](./src/img/1.jpg)
+
+#### Установка и запуск 
+
+`npm i` - установка зависимостей
+
+`npm run start` - запуск сервера
+
+`npm run build` - запуск сборки проекта
+
