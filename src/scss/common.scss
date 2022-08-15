@@ -1,0 +1,36 @@
+// Заголовки, общие БЄМ блоки и проче...
+._flyImage._ibg {
+	opacity: 1;
+	position: fixed;
+	z-index: 100;
+	transition: all 2s ease 0s;
+}
+
+.arrow {
+		border-radius: 50%;
+		width: 48px;
+		height: 48px;
+		background-color: rgba(232, 159, 113, .3);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		cursor: pointer;
+		transition: all 0.3s ease 0s;
+		@media (any-hover: hover){
+			&:hover {
+				background-color: rgba(232, 159, 113, 1);
+				&::before {
+					color: white;
+				}
+			}
+		}
+		&::before{
+			color:#E89F71;
+			font-size: rem(16);
+		}
+}
+
+.dotts {
+	display: flex;
+	gap: 13px;
+}
